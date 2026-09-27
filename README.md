@@ -4,7 +4,9 @@ Scripts to install and run [NetPyNE-UI](https://github.com/MetaCell/NetPyNE-UI) 
 
 ## Main file — start here
 
-**`Install.sh`** is the only file you need to run. It automatically detects your operating system and hands off to the correct platform-specific script below — you don't need to figure out which one applies to you.
+**`Install.sh`** is the only file you need to run. It automatically detects your operating system and hands off to the correct platform-specific script below — you don't need to figure out which one applies to you. 
+
+  ## For Windows systems user should sign in to docker setup once installed by the script.  
 
 ### Run it
 
